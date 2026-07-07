@@ -30,8 +30,10 @@ If you're undead, white eyes and undead makeup is enough, but bear in mind you c
 Membership is by vote. Majority vote needed, votes should based of kit and fit with group. 
 
 Benefits include:
+- A shiny medal to identify you as a member
 - Use of the Armoury
-- 
+- Access to our unique currency, swordgrass, that can be used to purchase items from the armoury.
+-  
 
 
 ## Kings Crown Tournament 
