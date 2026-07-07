@@ -4,10 +4,15 @@
 ![bonfire](https://raw.githubusercontent.com/tychoprolarper/Watchdogs-of-Farron/refs/heads/main/Images/ouh581uvrdcgkootpwsi.jpg)
 
 ## Brief
-A group dedicated to playing characters from various different FromSoftware games including Demon Souls, Dark Souls, Bloodborne and Elden Ring. All of us brought together in Shadow camps for a common purpose: ushering in the Age of Dark. 
+A group dedicated to playing characters from various different FromSoftware games including Demon Souls, Dark Souls, Bloodborne and Elden Ring. All of us brought together in Shadow camp for a common purpose: ushering in the Age of Dark. 
 
 ## Goals 
-Fostering a more martial culture and a high emphasis on costuming excellence. Being available in the camp for escort missions, nearby road patrol and camp defense. 
+Fostering a more martial culture and a high emphasis on costuming excellence. In addition we shall:
+
+- Defend the camp from seiges 
+- Be available to escort non warriors to other areas of game
+- Patrol the nearby roads regularly
+- Flex on 'em
 
 ## Creating characters
 Characters should be from one of the Soulsborne games. Even though it's not actually lore, we are assuming that Elden Ring ties all the game **loosely** together. Feel free to use any elements from the games to make your character but do avoid being or being related to any named characters. Being from Astora is fine, being Oscar of Astora is not. **You should probably be a bearer of the Darksign.**
@@ -21,7 +26,12 @@ Characters should be largely martial in nature, but spellcasters, clerics and ro
 ## Costume Requirements
 If you're undead, white eyes and undead makeup is enough, but bear in mind you can take that farther if you wish to be more hollowed. Bloodborne characters (who are never undead) could choose to make themselves look more bestial if they would like. Costumes themselves should be prestige game tier. I'd be more than happy to help in this regard. 
 
-## Membership
+## Membership and Benefits
+Membership is by vote. Majority vote needed, votes should based of kit and fit with group. 
+
+Benefits include:
+- Use of the Armoury
+- 
 
 
 ## Kings Crown Tournament 
