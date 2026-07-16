@@ -1,5 +1,5 @@
 # Roundtable Hold
-### _"And soon the flames will fade, and only Dark will remain..."_
+### _"Oh, arise now, ye Tarnished. Ye dead, who yet live. The call of long-lost Grace speaks to us all..."_
 
 ![bonfire](https://raw.githubusercontent.com/tychoprolarper/Watchdogs-of-Farron/refs/heads/main/Images/ouh581uvrdcgkootpwsi.jpg)
 
