@@ -1,7 +1,7 @@
 # Roundtable Hold
 ### _"Oh, arise now, ye Tarnished. Ye dead, who yet live. The call of long-lost Grace speaks to us all..."_
 
-![bonfire](https://raw.githubusercontent.com/tychoprolarper/Watchdogs-of-Farron/refs/heads/main/Images/ouh581uvrdcgkootpwsi.jpg)
+![bonfire](https://raw.githubusercontent.com/tychoprolarper/arise-ye-tarnished/refs/heads/main/Images/walking-around-round-table-hold-as-it-empties-out-is-v0-kpuoslmgh79e1.png)
 
 ## Brief
 A group dedicated to playing characters from various different FromSoftware games including Demon Souls, Dark Souls, Bloodborne and Elden Ring. All of us brought together in Shadow camp for a common purpose: ushering in the Age of Dark. 
